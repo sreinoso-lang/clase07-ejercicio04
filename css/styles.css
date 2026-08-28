@@ -21,3 +21,6 @@ section {
 body {
     padding: 20px;
 }
+h2 {
+    border: dotted 3px red;
+}
